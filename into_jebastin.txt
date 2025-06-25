@@ -1,0 +1,68 @@
+Good even everyone 
+my name is jebastin
+i completed my graduation at prathyusha eng college
+in the domin of artificial in and data science 
+
+in cognizant im trained as the domin 
+of AIA artificial intlignvece analytics
+in the track of Google cloud platform
+thank you
+
+hi deepika
+i have one question 
+in chatbot u mentioned its only 
+
+
+---------------------------------------------------
+
+"Good morning! Over the past two days, I explored 
+the 'Person + Webpage' feature, and I found it
+ absolutely amazing—especially the chatbot, 
+highlights, and how it presents pages. 
+One thing I noticed is that while there's a 
+'Last Visited' section under 'Recent', 
+I couldn't find any indication of how much 
+of the book I've completed. It would be really 
+motivating if there were a progress indicator—like 
+showing 90% completed or 10% remaining. That kind 
+of feedback would
+ definitely boost enthusiasm for learning!"
+
+
+
+
+
+
+Reads books or content
+Summarizes topics
+Explains topics
+Prepares questions based on the explanation
+Likely uses a static or rule-based approach to generate questions
+
+
+Simple and efficient: Easy to implement and fast to compute.
+Dynamic: Learner ability and question difficulty evolve over time.
+Personalized: Helps match learners with appropriately challenging content.
+Scalable: Works well in large systems with many learners and questions.
+
+
+
+
+
+
+
+
+
+
+CLUSTER_NAME=gcptesting REGION=us-east1
+gcloud dataproc clusters create ${CLUSTER_NAME} --region ${REGION} --single-node --master-machine-type n1-standard-2 --master-machine-type n1-standard-2 --master-boot-disk-size 500 --image-version 2.0-debian10 --enable-component-gateway --optional-components=JUPYTER --initialization-actions gs://goog-dataproc-initialization-actions-${REGION}/connectors/connectors.sh --metadata bigquery-connector-version=1.2.0 --metadata spark-bigquery-connector-version=0.21.0
+
+
+
+
+
+
+
+
+
+
