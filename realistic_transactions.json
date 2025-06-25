@@ -1,0 +1,272 @@
+[
+  {
+    "transaction_id": "TX20250601-001",
+    "store_id": "STORE-002",
+    "category_id": "CAT-02",
+    "quantity": 8,
+    "price": 78.78,
+    "timestamp": "2025-06-23T00:00:00",
+    "customer_id": "CUST-001"
+  },
+  {
+    "transaction_id": "TX20250602-002",
+    "store_id": "STORE-005",
+    "category_id": "CAT-04",
+    "quantity": 3,
+    "price": 54.21,
+    "timestamp": "2025-06-03T00:00:00",
+    "customer_id": "CUST-003"
+  },
+  {
+    "transaction_id": "TX20250603-003",
+    "store_id": "STORE-002",
+    "category_id": "CAT-04",
+    "quantity": 5,
+    "price": 98.85,
+    "timestamp": "2025-06-24T00:00:00",
+    "customer_id": "CUST-010"
+  },
+  {
+    "transaction_id": "TX20250604-004",
+    "store_id": "STORE-001",
+    "category_id": "CAT-04",
+    "quantity": 9,
+    "price": 13.88,
+    "timestamp": "2025-06-15T00:00:00",
+    "customer_id": "CUST-003"
+  },
+  {
+    "transaction_id": "TX20250605-005",
+    "store_id": "STORE-005",
+    "category_id": "CAT-02",
+    "quantity": 3,
+    "price": 80.47,
+    "timestamp": "2025-06-20T00:00:00",
+    "customer_id": "CUST-005"
+  },
+  {
+    "transaction_id": "TX20250606-006",
+    "store_id": "STORE-005",
+    "category_id": "CAT-03",
+    "quantity": 4,
+    "price": 45.15,
+    "timestamp": "2025-06-06T00:00:00",
+    "customer_id": "CUST-017"
+  },
+  {
+    "transaction_id": "TX20250607-007",
+    "store_id": "STORE-003",
+    "category_id": "CAT-04",
+    "quantity": 5,
+    "price": 12.59,
+    "timestamp": "2025-06-11T00:00:00",
+    "customer_id": "CUST-020"
+  },
+  {
+    "transaction_id": "TX20250608-008",
+    "store_id": "STORE-002",
+    "category_id": "CAT-02",
+    "quantity": 5,
+    "price": 49.44,
+    "timestamp": "2025-06-29T00:00:00",
+    "customer_id": "CUST-020"
+  },
+  {
+    "transaction_id": "TX20250609-009",
+    "store_id": "STORE-004",
+    "category_id": "CAT-01",
+    "quantity": 3,
+    "price": 93.32,
+    "timestamp": "2025-06-03T00:00:00",
+    "customer_id": "CUST-009"
+  },
+  {
+    "transaction_id": "TX20250610-010",
+    "store_id": "STORE-003",
+    "category_id": "CAT-03",
+    "quantity": 8,
+    "price": 42.5,
+    "timestamp": "2025-06-12T00:00:00",
+    "customer_id": "CUST-005"
+  },
+  {
+    "transaction_id": "TX20250611-011",
+    "store_id": "STORE-001",
+    "category_id": "CAT-02",
+    "quantity": 7,
+    "price": 82.96,
+    "timestamp": "2025-06-10T00:00:00",
+    "customer_id": "CUST-019"
+  },
+  {
+    "transaction_id": "TX20250612-012",
+    "store_id": "STORE-003",
+    "category_id": "CAT-02",
+    "quantity": 7,
+    "price": 74.72,
+    "timestamp": "2025-06-16T00:00:00",
+    "customer_id": "CUST-002"
+  },
+  {
+    "transaction_id": "TX20250613-013",
+    "store_id": "STORE-005",
+    "category_id": "CAT-02",
+    "quantity": 6,
+    "price": 66.16,
+    "timestamp": "2025-06-30T00:00:00",
+    "customer_id": "CUST-020"
+  },
+  {
+    "transaction_id": "TX20250614-014",
+    "store_id": "STORE-004",
+    "category_id": "CAT-02",
+    "quantity": 3,
+    "price": 37.34,
+    "timestamp": "2025-06-12T00:00:00",
+    "customer_id": "CUST-018"
+  },
+  {
+    "transaction_id": "TX20250615-015",
+    "store_id": "STORE-002",
+    "category_id": "CAT-02",
+    "quantity": 6,
+    "price": 95.74,
+    "timestamp": "2025-06-27T00:00:00",
+    "customer_id": "CUST-020"
+  },
+  {
+    "transaction_id": "TX20250616-016",
+    "store_id": "STORE-001",
+    "category_id": "CAT-02",
+    "quantity": 7,
+    "price": 87.94,
+    "timestamp": "2025-06-15T00:00:00",
+    "customer_id": "CUST-008"
+  },
+  {
+    "transaction_id": "TX20250617-017",
+    "store_id": "STORE-005",
+    "category_id": "CAT-02",
+    "quantity": 1,
+    "price": 52.26,
+    "timestamp": "2025-06-27T00:00:00",
+    "customer_id": "CUST-020"
+  },
+  {
+    "transaction_id": "TX20250618-018",
+    "store_id": "STORE-005",
+    "category_id": "CAT-04",
+    "quantity": 1,
+    "price": 74.47,
+    "timestamp": "2025-06-14T00:00:00",
+    "customer_id": "CUST-004"
+  },
+  {
+    "transaction_id": "TX20250619-019",
+    "store_id": "STORE-003",
+    "category_id": "CAT-01",
+    "quantity": 7,
+    "price": 43.21,
+    "timestamp": "2025-06-26T00:00:00",
+    "customer_id": "CUST-005"
+  },
+  {
+    "transaction_id": "TX20250620-020",
+    "store_id": "STORE-001",
+    "category_id": "CAT-04",
+    "quantity": 7,
+    "price": 14.66,
+    "timestamp": "2025-06-23T00:00:00",
+    "customer_id": "CUST-011"
+  },
+  {
+    "transaction_id": "TX20250621-021",
+    "store_id": "STORE-003",
+    "category_id": "CAT-02",
+    "quantity": 3,
+    "price": 35.66,
+    "timestamp": "2025-06-19T00:00:00",
+    "customer_id": "CUST-007"
+  },
+  {
+    "transaction_id": "TX20250622-022",
+    "store_id": "STORE-003",
+    "category_id": "CAT-03",
+    "quantity": 5,
+    "price": 27.12,
+    "timestamp": "2025-06-30T00:00:00",
+    "customer_id": "CUST-020"
+  },
+  {
+    "transaction_id": "TX20250623-023",
+    "store_id": "STORE-003",
+    "category_id": "CAT-03",
+    "quantity": 3,
+    "price": 38.63,
+    "timestamp": "2025-06-15T00:00:00",
+    "customer_id": "CUST-011"
+  },
+  {
+    "transaction_id": "TX20250624-024",
+    "store_id": "STORE-003",
+    "category_id": "CAT-02",
+    "quantity": 6,
+    "price": 59.02,
+    "timestamp": "2025-06-02T00:00:00",
+    "customer_id": "CUST-018"
+  },
+  {
+    "transaction_id": "TX20250625-025",
+    "store_id": "STORE-003",
+    "category_id": "CAT-04",
+    "quantity": 5,
+    "price": 11.91,
+    "timestamp": "2025-06-05T00:00:00",
+    "customer_id": "CUST-010"
+  },
+  {
+    "transaction_id": "TX20250626-026",
+    "store_id": "STORE-003",
+    "category_id": "CAT-03",
+    "quantity": 4,
+    "price": 32.25,
+    "timestamp": "2025-06-03T00:00:00",
+    "customer_id": "CUST-016"
+  },
+  {
+    "transaction_id": "TX20250627-027",
+    "store_id": "STORE-004",
+    "category_id": "CAT-02",
+    "quantity": 3,
+    "price": 39.62,
+    "timestamp": "2025-06-20T00:00:00",
+    "customer_id": "CUST-008"
+  },
+  {
+    "transaction_id": "TX20250628-028",
+    "store_id": "STORE-001",
+    "category_id": "CAT-04",
+    "quantity": 10,
+    "price": 26.4,
+    "timestamp": "2025-06-17T00:00:00",
+    "customer_id": "CUST-006"
+  },
+  {
+    "transaction_id": "TX20250629-029",
+    "store_id": "STORE-002",
+    "category_id": "CAT-02",
+    "quantity": 1,
+    "price": 43.34,
+    "timestamp": "2025-06-07T00:00:00",
+    "customer_id": "CUST-017"
+  },
+  {
+    "transaction_id": "TX20250630-030",
+    "store_id": "STORE-003",
+    "category_id": "CAT-01",
+    "quantity": 5,
+    "price": 89.78,
+    "timestamp": "2025-06-07T00:00:00",
+    "customer_id": "CUST-018"
+  }
+]

@@ -1,0 +1,273 @@
+[
+    {
+      "transaction_id": "T001",
+      "store_id": "S001",
+      "category_id": "C03",
+      "quantity": 6,
+      "price": 35.67,
+      "timestamp": "2025-06-06T00:00:00",
+      "customer_id": "CUST003"
+    },
+    {
+      "transaction_id": "T002",
+      "store_id": "S002",
+      "category_id": "C01",
+      "quantity": 2,
+      "price": 89.45,
+      "timestamp": "2025-06-03T00:00:00",
+      "customer_id": "CUST001"
+    },
+    {
+      "transaction_id": "T003",
+      "store_id": "S003",
+      "category_id": "C02",
+      "quantity": 4,
+      "price": 23.78,
+      "timestamp": "2025-06-05T00:00:00",
+      "customer_id": "CUST005"
+    },
+    {
+      "transaction_id": "T004",
+      "store_id": "S001",
+      "category_id": "C01",
+      "quantity": 3,
+      "price": 45.12,
+      "timestamp": "2025-06-01T00:00:00",
+      "customer_id": "CUST002"
+    },
+    {
+      "transaction_id": "T005",
+      "store_id": "S002",
+      "category_id": "C03",
+      "quantity": 5,
+      "price": 67.89,
+      "timestamp": "2025-06-04T00:00:00",
+      "customer_id": "CUST004"
+    },
+    {
+      "transaction_id": "T006",
+      "store_id": "S003",
+      "category_id": "C01",
+      "quantity": 7,
+      "price": 12.34,
+      "timestamp": "2025-06-07T00:00:00",
+      "customer_id": "CUST006"
+    },
+    {
+      "transaction_id": "T007",
+      "store_id": "S001",
+      "category_id": "C02",
+      "quantity": 1,
+      "price": 99.99,
+      "timestamp": "2025-06-02T00:00:00",
+      "customer_id": "CUST007"
+    },
+    {
+      "transaction_id": "T008",
+      "store_id": "S002",
+      "category_id": "C01",
+      "quantity": 8,
+      "price": 15.75,
+      "timestamp": "2025-06-08T00:00:00",
+      "customer_id": "CUST008"
+    },
+    {
+      "transaction_id": "T009",
+      "store_id": "S003",
+      "category_id": "C03",
+      "quantity": 2,
+      "price": 55.55,
+      "timestamp": "2025-06-09T00:00:00",
+      "customer_id": "CUST009"
+    },
+    {
+      "transaction_id": "T010",
+      "store_id": "S001",
+      "category_id": "C01",
+      "quantity": 6,
+      "price": 42.42,
+      "timestamp": "2025-06-10T00:00:00",
+      "customer_id": "CUST010"
+    },
+    {
+      "transaction_id": "T011",
+      "store_id": "S002",
+      "category_id": "C02",
+      "quantity": 3,
+      "price": 18.25,
+      "timestamp": "2025-06-01T00:00:00",
+      "customer_id": "CUST001"
+    },
+    {
+      "transaction_id": "T012",
+      "store_id": "S003",
+      "category_id": "C01",
+      "quantity": 4,
+      "price": 27.89,
+      "timestamp": "2025-06-02T00:00:00",
+      "customer_id": "CUST002"
+    },
+    {
+      "transaction_id": "T013",
+      "store_id": "S001",
+      "category_id": "C03",
+      "quantity": 5,
+      "price": 31.45,
+      "timestamp": "2025-06-03T00:00:00",
+      "customer_id": "CUST003"
+    },
+    {
+      "transaction_id": "T014",
+      "store_id": "S002",
+      "category_id": "C01",
+      "quantity": 2,
+      "price": 76.54,
+      "timestamp": "2025-06-04T00:00:00",
+      "customer_id": "CUST004"
+    },
+    {
+      "transaction_id": "T015",
+      "store_id": "S003",
+      "category_id": "C02",
+      "quantity": 6,
+      "price": 19.99,
+      "timestamp": "2025-06-05T00:00:00",
+      "customer_id": "CUST005"
+    },
+    {
+      "transaction_id": "T016",
+      "store_id": "S001",
+      "category_id": "C01",
+      "quantity": 3,
+      "price": 88.88,
+      "timestamp": "2025-06-06T00:00:00",
+      "customer_id": "CUST006"
+    },
+    {
+      "transaction_id": "T017",
+      "store_id": "S002",
+      "category_id": "C03",
+      "quantity": 7,
+      "price": 14.99,
+      "timestamp": "2025-06-07T00:00:00",
+      "customer_id": "CUST007"
+    },
+    {
+      "transaction_id": "T018",
+      "store_id": "S003",
+      "category_id": "C01",
+      "quantity": 5,
+      "price": 22.22,
+      "timestamp": "2025-06-08T00:00:00",
+      "customer_id": "CUST008"
+    },
+    {
+      "transaction_id": "T019",
+      "store_id": "S001",
+      "category_id": "C02",
+      "quantity": 4,
+      "price": 33.33,
+      "timestamp": "2025-06-09T00:00:00",
+      "customer_id": "CUST009"
+    },
+    {
+      "transaction_id": "T020",
+      "store_id": "S002",
+      "category_id": "C01",
+      "quantity": 6,
+      "price": 44.44,
+      "timestamp": "2025-06-10T00:00:00",
+      "customer_id": "CUST010"
+    },
+    {
+      "transaction_id": "T021",
+      "store_id": "S003",
+      "category_id": "C03",
+      "quantity": 2,
+      "price": 66.66,
+      "timestamp": "2025-06-01T00:00:00",
+      "customer_id": "CUST001"
+    },
+    {
+      "transaction_id": "T022",
+      "store_id": "S001",
+      "category_id": "C01",
+      "quantity": 1,
+      "price": 77.77,
+      "timestamp": "2025-06-02T00:00:00",
+      "customer_id": "CUST002"
+    },
+    {
+      "transaction_id": "T023",
+      "store_id": "S002",
+      "category_id": "C02",
+      "quantity": 3,
+      "price": 88.88,
+      "timestamp": "2025-06-03T00:00:00",
+      "customer_id": "CUST003"
+    },
+    {
+      "transaction_id": "T024",
+      "store_id": "S003",
+      "category_id": "C01",
+      "quantity": 4,
+      "price": 99.99,
+      "timestamp": "2025-06-04T00:00:00",
+      "customer_id": "CUST004"
+    },
+    {
+      "transaction_id": "T025",
+      "store_id": "S001",
+      "category_id": "C03",
+      "quantity": 5,
+      "price": 11.11,
+      "timestamp": "2025-06-05T00:00:00",
+      "customer_id": "CUST005"
+    },
+    {
+      "transaction_id": "T026",
+      "store_id": "S002",
+      "category_id": "C01",
+      "quantity": 6,
+      "price": 22.22,
+      "timestamp": "2025-06-06T00:00:00",
+      "customer_id": "CUST006"
+    },
+    {
+        "transaction_id": "T027",
+        "store_id": "S003",
+        "category_id": "C02",
+        "quantity": 7,
+        "price": 33.33,
+        "timestamp": "2025-06-07T00:00:00",
+        "customer_id": "CUST007"
+      },
+      {
+        "transaction_id": "T028",
+        "store_id": "S001",
+        "category_id": "C01",
+        "quantity": 2,
+        "price": 55.55,
+        "timestamp": "2025-06-08T00:00:00",
+        "customer_id": "CUST008"
+      },
+      {
+        "transaction_id": "T029",
+        "store_id": "S002",
+        "category_id": "C03",
+        "quantity": 3,
+        "price": 66.66,
+        "timestamp": "2025-06-09T00:00:00",
+        "customer_id": "CUST009"
+      },
+      {
+        "transaction_id": "T030",
+        "store_id": "S003",
+        "category_id": "C01",
+        "quantity": 4,
+        "price": 77.77,
+        "timestamp": "2025-06-10T00:00:00",
+        "customer_id": "CUST010"
+      }
+]
+    

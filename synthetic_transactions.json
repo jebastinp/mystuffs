@@ -1,0 +1,272 @@
+[
+  {
+    "transaction_id": "TX_0zI9*Gj@",
+    "store_id": "ST_XW90",
+    "category_id": "CAT_O&b",
+    "quantity": 6,
+    "price": 81.01,
+    "timestamp": "2025-06-12T00:00:00",
+    "customer_id": "CU$#0u0S"
+  },
+  {
+    "transaction_id": "TX_XhExQYbu",
+    "store_id": "ST_gJBj",
+    "category_id": "CAT_E7c",
+    "quantity": 7,
+    "price": 54.31,
+    "timestamp": "2025-06-06T00:00:00",
+    "customer_id": "CU$#m6ko"
+  },
+  {
+    "transaction_id": "TX_eexdjxeG",
+    "store_id": "ST_G7ck",
+    "category_id": "CAT_P!$",
+    "quantity": 7,
+    "price": 47.44,
+    "timestamp": "2025-06-15T00:00:00",
+    "customer_id": "CU$Yw&hs"
+  },
+  {
+    "transaction_id": "TX_*uw2R%y!",
+    "store_id": "ST_AEEj",
+    "category_id": "CAT_tVU",
+    "quantity": 5,
+    "price": 49.06,
+    "timestamp": "2025-06-01T00:00:00",
+    "customer_id": "CU$mE2mA"
+  },
+  {
+    "transaction_id": "TX_OnGnMlb7",
+    "store_id": "ST_qTP9",
+    "category_id": "CAT_EbL",
+    "quantity": 9,
+    "price": 67.57,
+    "timestamp": "2025-06-07T00:00:00",
+    "customer_id": "CU$%5tNi"
+  },
+  {
+    "transaction_id": "TX_hQxOUbAu",
+    "store_id": "ST_XzNT",
+    "category_id": "CAT_CNV",
+    "quantity": 9,
+    "price": 88.6,
+    "timestamp": "2025-06-11T00:00:00",
+    "customer_id": "CU$ZV&sV"
+  },
+  {
+    "transaction_id": "TX_QXx!tWTT",
+    "store_id": "ST_sOw5",
+    "category_id": "CAT_xQ!",
+    "quantity": 6,
+    "price": 82.52,
+    "timestamp": "2025-06-14T00:00:00",
+    "customer_id": "CU$!hFBp"
+  },
+  {
+    "transaction_id": "TX_9t6S59AN",
+    "store_id": "ST_%Jbw",
+    "category_id": "CAT_&Rc",
+    "quantity": 4,
+    "price": 58.81,
+    "timestamp": "2025-06-15T00:00:00",
+    "customer_id": "CU$r3&T%"
+  },
+  {
+    "transaction_id": "TX_ne^PURdc",
+    "store_id": "ST_pK@O",
+    "category_id": "CAT_G4s",
+    "quantity": 1,
+    "price": 35.28,
+    "timestamp": "2025-06-08T00:00:00",
+    "customer_id": "CU$d$E5s"
+  },
+  {
+    "transaction_id": "TX_EQUKDw*g",
+    "store_id": "ST_iP^i",
+    "category_id": "CAT_iA^",
+    "quantity": 10,
+    "price": 10.51,
+    "timestamp": "2025-06-12T00:00:00",
+    "customer_id": "CU$OTLi%"
+  },
+  {
+    "transaction_id": "TX_KyZWnWzX",
+    "store_id": "ST_M%@m",
+    "category_id": "CAT_8o$",
+    "quantity": 1,
+    "price": 19.61,
+    "timestamp": "2025-06-06T00:00:00",
+    "customer_id": "CU$&4yAo"
+  },
+  {
+    "transaction_id": "TX_o*lBO7R7",
+    "store_id": "ST_kg^&",
+    "category_id": "CAT_w*4",
+    "quantity": 6,
+    "price": 89.97,
+    "timestamp": "2025-06-12T00:00:00",
+    "customer_id": "CU$AzaQK"
+  },
+  {
+    "transaction_id": "TX_BeuG2pta",
+    "store_id": "ST_kZ$*",
+    "category_id": "CAT_6LE",
+    "quantity": 10,
+    "price": 62.4,
+    "timestamp": "2025-06-07T00:00:00",
+    "customer_id": "CU$6eoum"
+  },
+  {
+    "transaction_id": "TX_kwqgOA%D",
+    "store_id": "ST_K*hX",
+    "category_id": "CAT_@0p",
+    "quantity": 3,
+    "price": 87.03,
+    "timestamp": "2025-06-03T00:00:00",
+    "customer_id": "CU$U9rtO"
+  },
+  {
+    "transaction_id": "TX_qO&%G@KY",
+    "store_id": "ST_r^sB",
+    "category_id": "CAT_ICd",
+    "quantity": 8,
+    "price": 10.08,
+    "timestamp": "2025-06-12T00:00:00",
+    "customer_id": "CU$8pgoY"
+  },
+  {
+    "transaction_id": "TX_cwekAFRJ",
+    "store_id": "ST_mwra",
+    "category_id": "CAT_VG@",
+    "quantity": 7,
+    "price": 15.11,
+    "timestamp": "2025-06-03T00:00:00",
+    "customer_id": "CU$4n*lX"
+  },
+  {
+    "transaction_id": "TX_vBUtPLtA",
+    "store_id": "ST_tq1M",
+    "category_id": "CAT_8Sd",
+    "quantity": 1,
+    "price": 74.79,
+    "timestamp": "2025-06-07T00:00:00",
+    "customer_id": "CU$XwQtC"
+  },
+  {
+    "transaction_id": "TX_r@H6r7F&",
+    "store_id": "ST_lU%B",
+    "category_id": "CAT_C7A",
+    "quantity": 5,
+    "price": 93.38,
+    "timestamp": "2025-06-08T00:00:00",
+    "customer_id": "CU$2P8dZ"
+  },
+  {
+    "transaction_id": "TX_mjZLLl4@",
+    "store_id": "ST_RFZh",
+    "category_id": "CAT_Qw7",
+    "quantity": 7,
+    "price": 69.64,
+    "timestamp": "2025-06-13T00:00:00",
+    "customer_id": "CU$T7TEj"
+  },
+  {
+    "transaction_id": "TX_%3!!Qr1l",
+    "store_id": "ST_Wp9q",
+    "category_id": "CAT_%GI",
+    "quantity": 2,
+    "price": 95.76,
+    "timestamp": "2025-06-13T00:00:00",
+    "customer_id": "CU$GKfJb"
+  },
+  {
+    "transaction_id": "TX_B*hnyZoZ",
+    "store_id": "ST_yDhI",
+    "category_id": "CAT_VPk",
+    "quantity": 6,
+    "price": 57.91,
+    "timestamp": "2025-06-11T00:00:00",
+    "customer_id": "CU$HYJTu"
+  },
+  {
+    "transaction_id": "TX_TgT77QrG",
+    "store_id": "ST_!UKx",
+    "category_id": "CAT_Gc@",
+    "quantity": 5,
+    "price": 36.32,
+    "timestamp": "2025-06-13T00:00:00",
+    "customer_id": "CU$6vmAC"
+  },
+  {
+    "transaction_id": "TX_luAkDgr8",
+    "store_id": "ST_&cv0",
+    "category_id": "CAT_6S7",
+    "quantity": 10,
+    "price": 77.84,
+    "timestamp": "2025-06-06T00:00:00",
+    "customer_id": "CU$JItu1"
+  },
+  {
+    "transaction_id": "TX_bQoy1FX0",
+    "store_id": "ST_PEoq",
+    "category_id": "CAT_Zgt",
+    "quantity": 10,
+    "price": 16.95,
+    "timestamp": "2025-06-05T00:00:00",
+    "customer_id": "CU$48Of7"
+  },
+  {
+    "transaction_id": "TX_AlF8ogRr",
+    "store_id": "ST_9UjV",
+    "category_id": "CAT_#^g",
+    "quantity": 4,
+    "price": 50.33,
+    "timestamp": "2025-06-11T00:00:00",
+    "customer_id": "CU$aLC7w"
+  },
+  {
+    "transaction_id": "TX_xOaLgnWZ",
+    "store_id": "ST_#uXO",
+    "category_id": "CAT_Uv#",
+    "quantity": 5,
+    "price": 25.04,
+    "timestamp": "2025-06-05T00:00:00",
+    "customer_id": "CU$WDeKG"
+  },
+  {
+    "transaction_id": "TX_I6G0aH4L",
+    "store_id": "ST_mT^f",
+    "category_id": "CAT_SQ&",
+    "quantity": 1,
+    "price": 91.53,
+    "timestamp": "2025-06-09T00:00:00",
+    "customer_id": "CU$d#yZ0"
+  },
+  {
+    "transaction_id": "TX_NNGkrxS#",
+    "store_id": "ST_2$R9",
+    "category_id": "CAT_yRo",
+    "quantity": 7,
+    "price": 61.52,
+    "timestamp": "2025-06-08T00:00:00",
+    "customer_id": "CU$c*vbo"
+  },
+  {
+    "transaction_id": "TX_8dFid0m^",
+    "store_id": "ST_4h1L",
+    "category_id": "CAT_qyq",
+    "quantity": 9,
+    "price": 33.01,
+    "timestamp": "2025-06-03T00:00:00",
+    "customer_id": "CU$KxD@t"
+  },
+  {
+    "transaction_id": "TX_JRdftIF4",
+    "store_id": "ST_p7Ia",
+    "category_id": "CAT_&@a",
+    "quantity": 4,
+    "price": 23.51,
+    "timestamp": "2025-06-09T00:00:00",
+    "customer_id": "CU$n0FUt"
+  }
+]

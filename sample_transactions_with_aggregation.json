@@ -1,0 +1,92 @@
+[
+    {
+        "transaction_id": "TX1000",
+        "store_id": "S003",
+        "category_id": "C03",
+        "quantity": 1,
+        "price": 85.06,
+        "timestamp": "2025-06-07T09:07:35.838785",
+        "customer_id": "CUST002"
+    },
+    {
+        "transaction_id": "TX1001",
+        "store_id": "S003",
+        "category_id": "C01",
+        "quantity": 1,
+        "price": 98.98,
+        "timestamp": "2025-06-06T09:07:35.838785",
+        "customer_id": "CUST002"
+    },
+    {
+        "transaction_id": "TX1002",
+        "store_id": "S001",
+        "category_id": "C03",
+        "quantity": 1,
+        "price": 99.96,
+        "timestamp": "2025-06-09T09:07:35.838785",
+        "customer_id": "CUST001"
+    },
+    {
+        "transaction_id": "TX1003",
+        "store_id": "S003",
+        "category_id": "C03",
+        "quantity": 3,
+        "price": 85.96,
+        "timestamp": "2025-06-07T09:07:35.838785",
+        "customer_id": "CUST002"
+    },
+    {
+        "transaction_id": "TX1004",
+        "store_id": "S003",
+        "category_id": "C02",
+        "quantity": 3,
+        "price": 65.35,
+        "timestamp": "2025-06-05T09:07:35.838785",
+        "customer_id": "CUST003"
+    },
+    {
+        "transaction_id": "TX1005",
+        "store_id": "S002",
+        "category_id": "C02",
+        "quantity": 3,
+        "price": 63.66,
+        "timestamp": "2025-06-10T09:07:35.838785",
+        "customer_id": "CUST001"
+    },
+    {
+        "transaction_id": "TX1006",
+        "store_id": "S001",
+        "category_id": "C02",
+        "quantity": 3,
+        "price": 41.68,
+        "timestamp": "2025-06-06T09:07:35.838785",
+        "customer_id": "CUST001"
+    },
+    {
+        "transaction_id": "TX1007",
+        "store_id": "S002",
+        "category_id": "C02",
+        "quantity": 3,
+        "price": 75.01,
+        "timestamp": "2025-06-07T09:07:35.838785",
+        "customer_id": "CUST001"
+    },
+    {
+        "transaction_id": "TX1008",
+        "store_id": "S003",
+        "category_id": "C02",
+        "quantity": 2,
+        "price": 87.69,
+        "timestamp": "2025-06-08T09:07:35.838785",
+        "customer_id": "CUST001"
+    },
+    {
+        "transaction_id": "TX1009",
+        "store_id": "S001",
+        "category_id": "C03",
+        "quantity": 4,
+        "price": 65.24,
+        "timestamp": "2025-06-09T09:07:35.838785",
+        "customer_id": "CUST001"
+    }
+]

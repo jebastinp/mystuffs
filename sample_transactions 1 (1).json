@@ -1,0 +1,72 @@
+[
+  {
+    "transaction_id": "TX1000",
+    "store_id": "S004",
+    "category_id": "C01",
+    "amount": 159.85,
+    "timestamp": "2025-06-08T15:37:55.809551"
+  },
+  {
+    "transaction_id": "TX1001",
+    "store_id": "S003",
+    "category_id": "C01",
+    "amount": 417.17,
+    "timestamp": "2025-06-07T15:37:55.809551"
+  },
+  {
+    "transaction_id": "TX1002",
+    "store_id": "S004",
+    "category_id": "C02",
+    "amount": 494.67,
+    "timestamp": "2025-06-06T15:37:55.809551"
+  },
+  {
+    "transaction_id": "TX1003",
+    "store_id": "S004",
+    "category_id": "C03",
+    "amount": 389.18,
+    "timestamp": "2025-06-05T15:37:55.809551"
+  },
+  {
+    "transaction_id": "TX1004",
+    "store_id": "S004",
+    "category_id": "C03",
+    "amount": 438.11,
+    "timestamp": "2025-06-04T15:37:55.809551"
+  },
+  {
+    "transaction_id": "TX1005",
+    "store_id": "S001",
+    "category_id": "C01",
+    "amount": 10.48,
+    "timestamp": "2025-06-03T15:37:55.809551"
+  },
+  {
+    "transaction_id": "TX1006",
+    "store_id": "S004",
+    "category_id": "C03",
+    "amount": 285.22,
+    "timestamp": "2025-06-02T15:37:55.809551"
+  },
+  {
+    "transaction_id": "TX1007",
+    "store_id": "S002",
+    "category_id": "C03",
+    "amount": 376.82,
+    "timestamp": "2025-06-01T15:37:55.809551"
+  },
+  {
+    "transaction_id": "TX1008",
+    "store_id": "S002",
+    "category_id": "C02",
+    "amount": 76.91,
+    "timestamp": "2025-05-31T15:37:55.809551"
+  },
+  {
+    "transaction_id": "TX1009",
+    "store_id": "S001",
+    "category_id": "C01",
+    "amount": 470.1,
+    "timestamp": "2025-05-30T15:37:55.809551"
+  }
+]

@@ -1,0 +1,53 @@
+
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import col, avg, countDistinct, desc, row_number, explode, split
+from pyspark.sql.window import Window
+
+# Initialize Spark session
+spark = SparkSession.builder.appName("EmployeeDataProcessing").getOrCreate()
+
+# Load CSV data
+df = spark.read.option("header", True).csv("employee_data.csv", inferSchema=True)
+
+# 1. Top 3 most occurring words in empName
+words_df = df.select(explode(split(col("empName"), " ")).alias("word"))
+top_words = words_df.groupBy("word").count().orderBy(desc("count")).limit(3)
+top_words.show()
+
+# 2. Remove duplicate records
+df_no_duplicates = df.dropDuplicates()
+df_no_duplicates.show()
+
+# 3. Word count using PySpark (on empName)
+word_count = words_df.groupBy("word").count()
+word_count.show()
+
+# 4. Group by empCountry and calculate average salary
+avg_salary = df.groupBy("empCountry").agg(avg("empSalary").alias("avgSalary"))
+avg_salary.show()
+
+# 5. Handle missing/null values
+df_cleaned = df.na.fill({"empName": "Unknown", "empSalary": 0})
+df_cleaned.show()
+
+# 6. Count distinct values in empCountry
+distinct_countries = df.select("empCountry").distinct().count()
+print(f"Distinct countries: {distinct_countries}")
+
+# 7. Filter records where salary > 50000
+high_salary = df.filter(col("empSalary") > 50000)
+high_salary.show()
+
+# 8. Read JSON file and convert to DataFrame
+json_df = spark.read.json("employee_data.json")
+json_df.show()
+
+# 9. Find second highest salary
+window_spec = Window.orderBy(col("empSalary").desc())
+second_highest_salary = df.withColumn("rank", row_number().over(window_spec)).filter(col("rank") == 2)
+second_highest_salary.show()
+
+# 10. Join two DataFrames and select specific columns
+df2 = df.select("empId", "empCountry").withColumnRenamed("empCountry", "country")
+joined_df = df.join(df2, "empId").select("empId", "empName", "empSalary", "country")
+joined_df.show()

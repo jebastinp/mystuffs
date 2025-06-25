@@ -1,0 +1,122 @@
+[
+  {
+    "event_type": "add_to_cart",
+    "product_id": "P1002",
+    "user_id": "U002",
+    "timestamp": "2025-06-11T05:49:07"
+  },
+  {
+    "event_type": "page_view",
+    "product_id": "P1003",
+    "user_id": "U002",
+    "timestamp": "2025-06-11T05:44:07"
+  },
+  {
+    "event_type": "page_view",
+    "product_id": "P1001",
+    "user_id": "U003",
+    "timestamp": "2025-06-11T05:39:07"
+  },
+  {
+    "event_type": "add_to_cart",
+    "product_id": "P1003",
+    "user_id": "U002",
+    "timestamp": "2025-06-11T05:34:07"
+  },
+  {
+    "event_type": "page_view",
+    "product_id": "P1003",
+    "user_id": "U004",
+    "timestamp": "2025-06-11T05:29:07"
+  },
+  {
+    "event_type": "product_click",
+    "product_id": "P1002",
+    "user_id": "U003",
+    "timestamp": "2025-06-11T05:24:07"
+  },
+  {
+    "event_type": "purchase",
+    "product_id": "P1002",
+    "user_id": "U002",
+    "timestamp": "2025-06-11T05:19:07"
+  },
+  {
+    "event_type": "page_view",
+    "product_id": "P1001",
+    "user_id": "U004",
+    "timestamp": "2025-06-11T05:14:07"
+  },
+  {
+    "event_type": "page_view",
+    "product_id": "P1004",
+    "user_id": "U004",
+    "timestamp": "2025-06-11T05:09:07"
+  },
+  {
+    "event_type": "product_click",
+    "product_id": "P1002",
+    "user_id": "U002",
+    "timestamp": "2025-06-11T05:04:07"
+  },
+  {
+    "event_type": "add_to_cart",
+    "product_id": "P1002",
+    "user_id": "U001",
+    "timestamp": "2025-06-11T04:59:07"
+  },
+  {
+    "event_type": "purchase",
+    "product_id": "P1001",
+    "user_id": "U002",
+    "timestamp": "2025-06-11T04:54:07"
+  },
+  {
+    "event_type": "purchase",
+    "product_id": "P1001",
+    "user_id": "U001",
+    "timestamp": "2025-06-11T04:49:07"
+  },
+  {
+    "event_type": "page_view",
+    "product_id": "P1003",
+    "user_id": "U002",
+    "timestamp": "2025-06-11T04:44:07"
+  },
+  {
+    "event_type": "product_click",
+    "product_id": "P1004",
+    "user_id": "U001",
+    "timestamp": "2025-06-11T04:39:07"
+  },
+  {
+    "event_type": "page_view",
+    "product_id": "P1003",
+    "user_id": "U004",
+    "timestamp": "2025-06-11T04:34:07"
+  },
+  {
+    "event_type": "add_to_cart",
+    "product_id": "P1004",
+    "user_id": "U004",
+    "timestamp": "2025-06-11T04:29:07"
+  },
+  {
+    "event_type": "product_click",
+    "product_id": "P1001",
+    "user_id": "U003",
+    "timestamp": "2025-06-11T04:24:07"
+  },
+  {
+    "event_type": "page_view",
+    "product_id": "P1003",
+    "user_id": "U002",
+    "timestamp": "2025-06-11T04:19:07"
+  },
+  {
+    "event_type": "add_to_cart",
+    "product_id": "P1002",
+    "user_id": "U004",
+    "timestamp": "2025-06-11T04:14:07"
+  }
+]
