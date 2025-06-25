@@ -1,0 +1,4 @@
+customer_nbr,customer_desc,start_ts,end_ts,create_ts,create_user_id,last_update_ts,last_update_user_id,client_id
+C001,Customer 1,2023-01-01 12:00:00,2023-01-02 12:00:00,2023-01-01 12:00:00,user1,2023-01-02 12:00:00,user2,client1
+C002,Customer 2,2023-02-01 12:00:00,2023-02-02 12:00:00,2023-02-01 12:00:00,user3,2023-02-02 12:00:00,user4,client2
+C003,Customer 3,2023-03-01 12:00:00,2023-03-02 12:00:00,2023-03-01 12:00:00,user5,2023-03-02 12:00:00,user6,client3

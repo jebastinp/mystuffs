@@ -1,0 +1,46 @@
+CustomerID,ProductID,Quantity,Price,PaymentMethod,StoreLocation,ProductCategory
+109318,C,7,80.07984415,Cash,"176 Andrew Cliffs
+Baileyfort, HI 93354",Books
+993229,C,4,75.19522942,Cash,"11635 William Well Suite 809
+East Kara, MT 19483",Home Decor
+579675,A,8,31.52881648,Cash,"910 Mendez Ville Suite 909
+Port Lauraland, MO 99563",Books
+799826,D,5,98.88021828,PayPal,"87522 Sharon Corners Suite 500
+Lake Tammy, MO 76234",Books
+121413,A,7,93.18851246,Cash,"0070 Michelle Island Suite 143
+Holand, VA 80142",Electronics
+463050,D,3,54.09315249,Cash,"8492 Jonathan Drive
+North Robertshire, TN 67532",Electronics
+888163,D,7,13.12193739,PayPal,"USNV Harrell
+FPO AA 62814",Clothing
+843385,A,8,56.02516419,Debit Card,"489 Juan Loop Apt. 093
+North Brettville, WV 72610",Home Decor
+839609,B,5,23.85798105,Credit Card,"528 Justin Expressway Apt. 336
+Cabreraborough, SD 17915",Electronics
+184135,D,4,63.3427768,Debit Card,"189 Wright Mews
+Martinfurt, MO 75932",Books
+266491,C,8,98.79272609,Debit Card,"388 Matthew Lane Apt. 592
+West Andreachester, IN 96537",Books
+65632,D,8,78.12314235,PayPal,"PSC 1498, Box 4142
+APO AP 10928",Electronics
+26863,B,3,39.003285,Credit Card,"623 William Track Apt. 920
+Port Dave, NE 02045",Electronics
+632732,D,6,45.47433964,Cash,"5370 Nichols Fork Suite 983
+Georgeshire, MT 20848",Books
+798425,D,5,95.01176197,Cash,"1573 Petty Parkway Apt. 835
+Jordanmouth, IN 05999",Clothing
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
