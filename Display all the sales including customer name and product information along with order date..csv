@@ -1,0 +1,21 @@
+SALES_ID,ORDER_DATE,CUSTOMER_NAME,PRODUCT_NAME,DESCRIPTION,CATEGORY,QUANTITY,PRICE
+1,2023-01-15,Aarav Mehta,Laptop,14-inch business laptop,Electronics,1,250.0
+18,2024-06-30,Kavya Pillai,Jacket,Winter jacket,Clothing,1,260.0
+10,2023-10-01,Priya Menon,Tablet,10-inch Android tablet,Electronics,1,190.0
+2,2023-02-10,Diya Sharma,Smartphone,5G Android phone,Electronics,2,90.0
+17,2024-05-22,Arjun Desai,Sunglasses,Polarized sunglasses,Accessories,2,190.0
+11,2023-11-11,Amit Joshi,Monitor,24-inch LED monitor,Electronics,2,180.0
+6,2023-06-18,Meera Nair,Backpack,Waterproof travel backpack,Accessories,2,137.5
+14,2024-02-14,Isha Reddy,Printer,All-in-one printer,Electronics,2,165.0
+8,2023-08-30,Anjali Das,Watch,Smartwatch with GPS,Electronics,2,110.0
+20,2024-08-20,Ritika Sen,Jeans,Slim fit jeans,Clothing,2,147.5
+9,2023-09-14,Rahul Singh,Headphones,Noise-cancelling headphones,Electronics,3,103.33
+15,2024-03-10,Manav Bhatia,Desk Lamp,LED desk lamp,Furniture,3,70.0
+13,2024-01-05,Siddharth Jain,Mouse,Wireless mouse,Electronics,3,96.67
+19,2024-07-15,Nikhil Dube,T-shirt,Cotton t-shirt,Clothing,4,85.0
+3,2023-03-05,Rohan Patel,Desk Chair,Ergonomic office chair,Furniture,4,80.0
+12,2023-12-25,Neha Kapoor,Keyboard,Mechanical keyboard,Electronics,4,102.5
+16,2024-04-18,Tanya Roy,Water Bottle,Insulated bottle,Accessories,5,90.0
+4,2023-04-12,Sneha Iyer,Notebook,200-page ruled notebook,Stationery,5,30.0
+7,2023-07-22,Vikram Rao,Shoes,Running shoes,Footwear,5,100.0
+5,2023-05-20,Karan Verma,Pen Set,Luxury pen set,Stationery,10,40.0
